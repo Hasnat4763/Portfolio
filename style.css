@@ -1,0 +1,32 @@
+body {
+    background-image: url("Background.png");
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    text-align: center-middle;
+    margin-left: 15%;
+}
+
+h1 {
+    font-size: 3em;
+    margin-top: 20vh;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    font-size: 1.2em;
+    margin: 10px;
+    display: inline-block;
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+    color: blue;
+}
+
